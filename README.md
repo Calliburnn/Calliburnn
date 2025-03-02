@@ -3,23 +3,15 @@
  </a>
 </div>
     
-<!-- GIF -->
-![download](https://github.com/user-attachments/assets/a765ae0d-6cf8-4a8e-b4df-0be3b4a18701)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a765ae0d-6cf8-4a8e-b4df-0be3b4a18701" alt="download" loop>
+</div>
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calliburnn&theme=midnight-purple&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calliburnn&theme=midnight-purple&layout=compact)](https://github.com/Calliburnn/github-readme-stats)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&vCenter=true&width=924&lines=Hi+there%2C+I%E2%80%99m+Gabriel+J%C3%BCnger;+I%E2%80%99m+a+Brazilian+who+start+to+study+software+engineering+in+42+M%C3%A1laga" alt="Typing SVG" /></a>
 
-<div style="display: flex; align-items: center; gap: 12px;">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="30">
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30">
-    </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="30">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30">
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calliburnn&theme=midnight-purple&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calliburnn&theme=midnight-purple&layout=compact)](https://github.com/Calliburnn/github-readme-stats)
  
   #
    
@@ -40,8 +32,20 @@
     </a>
 </p>
 
-#
+<h3 align="left">My Stack 🏆</h3>
 
+<div style="display: flex; align-items: center; gap: 12px;">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="30">
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30">
+    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30">
+</div>
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Calliburnn/Calliburnn/output/github-contribution-grid-snake-dark.svg">
