@@ -24,6 +24,11 @@
 
 ##
 
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/Calliburnn/Calliburnn/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Calliburnn/Calliburnn/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/Calliburnn/output/github-contribution-grid-snake-dark.svg">
