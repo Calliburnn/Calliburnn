@@ -2,11 +2,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calliburnn&theme=midnight-purple&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calliburnn&theme=midnight-purple&layout=compact)](https://github.com/Calliburnn/github-readme-stats)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div style="display: flex; align-items: center; gap: 12px;">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="30">
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30">
+    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30">
 </div>
-  
+ 
   ##
  
 <div> 
