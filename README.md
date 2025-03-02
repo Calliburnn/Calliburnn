@@ -4,7 +4,7 @@
 </div>
     
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a765ae0d-6cf8-4a8e-b4df-0be3b4a18701" alt="download" loop>
+  <img src="https://github.com/user-attachments/assets/a63db41c-cf3d-45b4-ae77-bca346a47712" alt="download">
 </div>
 
 #
