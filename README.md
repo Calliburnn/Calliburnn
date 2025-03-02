@@ -1,4 +1,4 @@
-## Hello there I'm Gabriel Junger I'm a 42 Málaga student
+## 👋 Hello World, I'm Gabriel Junger I'm a 42 Málaga student
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calliburnn&theme=midnight-purple&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calliburnn&theme=midnight-purple&layout=compact)](https://github.com/Calliburnn/github-readme-stats)
 
