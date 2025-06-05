@@ -1,18 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFFEE&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffd700&center=true&vCenter=true&width=524&lines=%E2%9A%9C+Welcome+to+my+profile!+%E2%9A%9C" alt="Typing SVG">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFFEE&center=true&vCenter=true&width=524&lines=%E2%9A%9C+Welcome+to+my+profile!+%E2%9A%9C" alt="Typing SVG">
  </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFFEE&height=120&section=footer"/>
 
 #
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffd700&vCenter=true&width=924&lines=Hi+there%2C+I%E2%80%99m+Gabriel+J%C3%BCnger;+I%E2%80%99m+a+Brazilian+who+start+to+study+software+engineering+in+42+M%C3%A1laga" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFFEE&vCenter=true&width=924&lines=Hi+there%2C+I%E2%80%99m+Gabriel+J%C3%BCnger;+I%E2%80%99m+a+Brazilian+who+start+to+study+software+engineering+in+42+M%C3%A1laga" alt="Typing SVG" /></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calliburnn&theme=great-gatsby&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calliburnn&theme=great-gatsby&layout=compact)](https://github.com/Calliburnn/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calliburnn&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calliburnn&theme=dark&layout=compact)](https://github.com/Calliburnn/github-readme-stats)
 
 
 <div align="center">
